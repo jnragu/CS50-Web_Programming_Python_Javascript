@@ -1,2 +1,2 @@
-# CS50-Web_Programming_Python_Javascript
+# Web Programming with Python & Javascript
 HarvardX CS50W Course on edX
